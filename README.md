@@ -1,7 +1,6 @@
-# Rajesh
 # 👋 Hi, I'm Rajesh Devanal
 
-💻 **Data analysis | Python | Web Developer**
+💻 **Web Developer | Data analysis | Python | java**
 
 ---
 
@@ -10,24 +9,18 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-...
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+![Frontend](https://img.shields.io/badge/-Frontend-ff69b4?style=for-the-badge&logo=html5)
+![DBMS](https://img.shields.io/badge/-DBMS-lightgrey?style=for-the-badge&logo=database)
+![MS Office](https://img.shields.io/badge/-MS%20Office-orange?style=for-the-badge&logo=microsoft-office)
 
 ---
 
 ## 🚀 Professional Achievements
-- ✅ Completed **10+ Projects**
-- 🤖 Built **AI Tools & Automations**
+- ✅ Completed **3 Project**
 
----
-
-## 🌐 Live Projects Portfolio
-| Project Name | Live Link |
-|--------------|-----------|
-| Weather Music App | [View](https://yourwebsite.com) |
-| Student Attendance Website | [View](https://yourwebsite.com) |
-
----
-
+------
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/rajesh-devanal-a31519255)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github)](https://github.com/Rajeshdevanal)
