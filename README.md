@@ -28,8 +28,8 @@
 ## 🌐 Live Projects Portfolio
 | Project Name | Technologies | Live Link |
 |--------------|-------------|-----------|
-| **E-commerce Shopping Website** | HTML, CSS, PHP, MySQL | [View Project](#) |
-| **Personal Portfolio Website** | HTML, CSS, JavaScript, Chart.js | [View Project](#) |
+| **E-commerce Shopping Website** | HTML, CSS, PHP, MySQL 
+| **Personal Portfolio Website** | HTML, CSS, JavaScript, Chart.js |
 
 ---
 
