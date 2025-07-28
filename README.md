@@ -3,7 +3,7 @@
 💻 **Full Stack Developer | AI Enthusiast | Data Analytics Learner**
 
 ---
-
+https://github.com/Rajeshdevanal/Rajesh/blob/main/WhatsApp%20Image%202025-07-29%20at%2012.48.50%20AM.jpeg
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
