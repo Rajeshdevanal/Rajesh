@@ -1,56 +1,52 @@
+<h1 align="center">👋 Hi, I'm Rajesh Devanal</h1>
+
 <p align="center">
-  <img src="https://github.com/Rajeshdevanal/Rajesh/raw/main/WhatsApp%20Image%202025-07-29%20at%2012.48.50%20AM.jpeg" alt="Rajesh Devanal Banner" width="100%">
+  <img src="https://github.com/Rajeshdevanal/Rajesh/raw/main/WhatsApp%20Image%202025-07-29%20at%2012.48.50%20AM.jpeg" width="100%">
 </p>
 
-# 👋 Hi, I'm Rajesh Devanal
-
-💻 **Full Stack Developer | AI Enthusiast | Data Analytics Learner**
-
----
-
-## 🛠 Tech Stack
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=c-sharp)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-darkblue?style=for-the-badge&logo=mysql)
-![Frontend](https://img.shields.io/badge/-Frontend-ff69b4?style=for-the-badge&logo=html5)
-![DBMS](https://img.shields.io/badge/-DBMS-lightgrey?style=for-the-badge&logo=database)
-![MS Office](https://img.shields.io/badge/-MS%20Office-orange?style=for-the-badge&logo=microsoft-office)
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🤖%20AI%20Enthusiast-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/📊%20Data%20Analytics%20Learner-green?style=for-the-badge">
+</p>
 
 ---
 
-## 🚀 Professional Achievements
-- ✅ Completed **Multiple Web Development Projects**
-- 🤖 Gained Hands-on Experience in **Full Stack Development**
-- 📊 Completed **Data Analytics Course** (Python, Pandas, NumPy, Matplotlib)
+## 🚀 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=c-sharp">
+<img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/-MySQL-darkblue?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/-Frontend-ff69b4?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/-DBMS-lightgrey?style=for-the-badge&logo=database">
+<img src="https://img.shields.io/badge/-MS%20Office-orange?style=for-the-badge&logo=microsoft-office">
+</p>
+
+---
+
+## 🏆 Professional Achievements
+<p>
+<img src="https://img.shields.io/badge/✅%20Completed-10+%20Projects-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/🤖%20Built-5+%20AI%20Automations-purple?style=for-the-badge">
+</p>
 
 ---
 
 ## 🌐 Live Projects Portfolio
-| Project Name | Technologies | Live Link |
-|--------------|-------------|-----------|
-| **E-commerce Shopping Website** | HTML, CSS, PHP, MySQL 
-| **Personal Portfolio Website** | HTML, CSS, JavaScript, Chart.js |
-
----
-
-## 🏢 Internships
-- **Full Stack Web Development Intern** – CODTECH IT SOLUTIONS (Feb 2025 – Mar 2025)  
-- **Web Development Intern** – Tru Branders (Mar 2025 – Apr 2025)
-
----
-
-## 📚 Courses
-- **Data Analytics** (1–6 months) – Learned data cleaning, visualization & ML basics
+| Project Name               | Technologies                 | Live Link   |
+|----------------------------|-----------------------------|-------------|
+| **E-commerce Website**     | HTML, CSS, PHP, MySQL       | [View](#)   |
+| **Portfolio Website**      | HTML, CSS, JavaScript       | [View](#)   |
 
 ---
 
 ## 📊 GitHub Stats
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeshdevanal&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshdevanal&layout=compact&theme=tokyonight)  
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeshdevanal&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshdevanal&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajeshdevanal&theme=tokyonight)
 
 ---
@@ -66,4 +62,3 @@
 📧 **Email:** rajeshdevanal1008@gmail.com  
 
 ---
-✨ _Thanks for visiting my profile!_
