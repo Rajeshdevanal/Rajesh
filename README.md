@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rajeshdevanal/Rajesh/main/WhatsApp_Image_2025-07-29.jpeg" alt="Rajesh Devanal Banner" width="100%">
+  <img src="https://github.com/Rajeshdevanal/Rajesh/raw/main/WhatsApp%20Image%202025-07-29%20at%2012.48.50%20AM.jpeg" alt="Rajesh Devanal Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Rajesh Devanal
