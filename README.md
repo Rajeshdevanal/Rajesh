@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rajesh Devanal</h1>
 
-<p align="center">
-  <img src="https://github.com/Rajeshdevanal/Rajesh/raw/main/WhatsApp%20Image%202025-07-29%20at%2012.48.50%20AM.jpeg" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-blue?style=for-the-badge">
